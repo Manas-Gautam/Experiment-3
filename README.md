@@ -138,16 +138,18 @@ Understanding and implementing these operators is crucial for effective programm
 
 **Output: -**
 
-**Experiment 3.1**    ![image](https://github.com/user-attachments/assets/3bc9e605-6ba7-4fbf-833c-4ae1ab4ec0d8)
+**Experiment 3.1**    ![image](https://github.com/user-attachments/assets/08125f5c-a031-433c-a4f7-b192639365ef)
 
 
-**Experiment 3.2**   ![image](https://github.com/user-attachments/assets/71d4e4a9-05bd-4c44-8237-e4419c361c7c)
+
+**Experiment 3.2**   ![image](https://github.com/user-attachments/assets/fcc498e8-c283-46a1-90f3-e1faebaa8071)
 
 
-**Experiment 3.3**   ![image](https://github.com/user-attachments/assets/7b92f76f-064a-49c6-9909-178df2a362bb)
+**Experiment 3.3**   ![image](https://github.com/user-attachments/assets/dc4ff37e-fe21-453f-8884-d193db9b1e19)
 
 
-**Experiment 3.4**  ![image](https://github.com/user-attachments/assets/0fa177e5-02c3-4b4a-a578-4c5d0c5238a9)
+
+
 
 
 
