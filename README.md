@@ -142,7 +142,8 @@ Understanding and implementing these operators is crucial for effective programm
 
 
 
-**Experiment 3.2**   ![image](https://github.com/user-attachments/assets/fcc498e8-c283-46a1-90f3-e1faebaa8071)
+**Experiment 3.2**   ![image](https://github.com/user-attachments/assets/e75baef1-10bc-496c-8bf5-4fe10261239d)
+
 
 
 **Experiment 3.3**   ![image](https://github.com/user-attachments/assets/dc4ff37e-fe21-453f-8884-d193db9b1e19)
