@@ -31,59 +31,7 @@ int main() { // 3: Entry point of the program.
     return 0; // 10: Return 0 to indicate successful completion.
 }
 
-//EXP: - 3.2
-#include <iostream> // 1: Include iostream for input and output.
-
-using namespace std; // 2: Use the standard namespace.
-
-int main() { // 3: Main function.
-
-    int a, b, c, d; // 4: Declare variables for input and results.
-
-    // 5: Prompt user for input and read values.
-    cout << "Enter values for a, b, c, d: ";
-    cin >> a >> b >> c >> d;
-
-    // 6: Apply assignment operators.
-    a -= 3;     // Subtract 3 from `a`.
-    b *= 3;     // Multiply `b` by 3.
-    c /= 3;     // Divide `c` by 3.
-    d &= 3;     // Perform bitwise AND with 3 on `d`.
-
-    // 7: Output results.
-    cout << "a = " << a << endl;
-    cout << "b = " << b << endl;
-    cout << "c = " << c << endl;
-    cout << "d = " << d << endl;
-
-    return 0; // 8: Return 0 to indicate successful completion.
-}
-
-//Exp: - 3.3
-
-#include <iostream> // 1: Include iostream for input and output operations.
-
-using namespace std; // 2: Use the standard namespace.
-
-int main() { // 3: Main function.
-
-    int a, b; // 4: Declare variables for input.
-
-    // 5: Prompt user for input and read values.
-    cout << "Enter the first number: ";
-    cin >> a;
-    cout << "Enter the second number: ";
-    cin >> b;
-
-    // 6: Apply logical operators and display results.
-    cout << "\n" << (a > 1 && b < 10) << endl;  // Logical AND
-    cout << "\n" << (a > 1 || b < 10) << endl;  // Logical OR
-    cout << "\n" << !(a > 1 && b < 10) << endl; // Logical NOT
-
-    return 0; // 7: Return 0 to indicate successful completion.
-}
-
-//Exp:- 3.4
+//Exp:- 3.2
 
 #include <iostream> // 1: Include iostream for input and output.
 
@@ -110,5 +58,31 @@ int main() { // 3: Main function.
 
     return 0; // 7: Return 0 to indicate successful completion.
 }
+
+
+//Exp: - 3.3
+
+#include <iostream> // 1: Include iostream for input and output operations.
+
+using namespace std; // 2: Use the standard namespace.
+
+int main() { // 3: Main function.
+
+    int a, b; // 4: Declare variables for input.
+
+    // 5: Prompt user for input and read values.
+    cout << "Enter the first number: ";
+    cin >> a;
+    cout << "Enter the second number: ";
+    cin >> b;
+
+    // 6: Apply logical operators and display results.
+    cout << "\n" << (a > 1 && b < 10) << endl;  // Logical AND
+    cout << "\n" << (a > 1 || b < 10) << endl;  // Logical OR
+    cout << "\n" << !(a > 1 && b < 10) << endl; // Logical NOT
+
+    return 0; // 7: Return 0 to indicate successful completion.
+}
+
 
 
